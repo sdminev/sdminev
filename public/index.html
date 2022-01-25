@@ -1,7 +1,7 @@
 <!doctype html><html lang=en>
 <head>
 <meta name=generator content="Hugo 0.92.0">
-<title>Terminal</title>
+<title>SDMinev</title>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=description content="A simple, retro theme for Hugo">
@@ -52,6 +52,9 @@ Terminal
 </header>
 <div class=content>
 <div class=posts>
+  {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{end}}
 <div class=pagination>
 <div class=pagination__buttons>
 </div>
