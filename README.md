@@ -6,7 +6,7 @@
 I do IT Stuff
 
 - 🔭 I’m currently working @ ATOP LLC
-- 🌱 I’m still learning how to be a ninja dad and web-dev.
+- 🌱 I’m perfecting the balancing act of being a ninja dad and web-dev.
 - 💬 Ask me about ...
 - 📫 How to reach me: stefanminev@gmail.com
 - ⚡ Fun fact: I *love* aquariums!
