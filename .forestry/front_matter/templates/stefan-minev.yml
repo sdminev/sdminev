@@ -19,6 +19,15 @@ fields:
   config:
     maxSize: 64
   label: Main image
+- name: short_desc
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: short desc
 pages:
 - content/about-me.md
 - content/about-me.md
