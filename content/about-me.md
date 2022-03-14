@@ -7,3 +7,4 @@ tags = ["about-me", "cv", "sdminev"]
 title = "About me"
 
 +++
+This is the lorem ipsum content
